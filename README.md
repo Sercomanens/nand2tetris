@@ -1,5 +1,4 @@
-This repository contains the completed project files of the first part of the Coursera course Build a Modern Computer from
-First Principles: From Nand to Tetris by Noam Nisan and Shimon Schocken.
+This repository will contains the completed project files as I complete them of the first part of the Coursera course Build a Modern Computer from First Principles: From Nand to Tetris by Noam Nisan and Shimon Schocken.
 
 The course is currently offered in two parts on Coursera:
 
